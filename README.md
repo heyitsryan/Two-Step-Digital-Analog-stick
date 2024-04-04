@@ -1,9 +1,8 @@
-# Two-Step-arcade-switch
+# Two-Step- Digital Analog stick
 
-![TWOSTEP3](https://github.com/heyitsryan/Two-Step-arcade-switch/assets/2439341/755d6a3a-6b1e-40a1-9db1-4e5654b45beb)
+![TWOSTEP4](https://github.com/heyitsryan/Two-Step-arcade-switch/assets/2439341/eaff48ae-d409-4c92-9c5a-741cddcf45af)
 
-
-An enclosure to add extra movement steps for a sanwa jlf arcade stick to use for platform fighters and other games.
+An enclosure to add extra movement steps to arcade sticks to mimic analog controls for platform fighters and other games.
 
 The Two Step is a new concept in video game movement tech. Utilizing standard arcade micro switches and joystick designs but adding an extra stage of inputs to mimic analog joystick controls. 
 
@@ -17,7 +16,7 @@ The Two step is comprised of a 3d printed enclosure and a custom firmware that i
 
 ## Parts needed:
 
-* 1 Sanwa JLF/JLX arcade joystick (or the EGStarts copy from amazon, link below)
+* 1 Sanwa JLF/JLX arcade joystick
 * 8 arcade micro switches with .187 terminals (List of tested switches is below)
 * 1 3d printed Two Step enclosure and 4 lids (.stl files attached to project for download)
 * wire (your preferred gauge and style)
@@ -38,7 +37,7 @@ The original JLF can be purchased from amazon or other arcade parts stores such 
 
 The amazon link is https://www.amazon.com/Sanwa-Denshi-JLF-TP-8YTFAST-SHIPPING-Adjustable/dp/B01CRQMWEQ/
 
-Another option is the EG Starts JLF clone. This is an identical copy of the JLF as far as the hardware is concerned however it comes with lesser quality microswitches. However since they are not .187 terminal switches we will not be using them however if you choose to do so you will need to desolder them from the pcb they come on and you will have to directly solder to the ground pins. The link for the EG starts stick is https://www.amazon.com/gp/product/B01N0DO631/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+Another option is the EG Starts JLF clone. This is an identical copy of the JLF as far as the hardware is concerned however it comes with lesser quality microswitches.  The link for the EG starts stick is https://www.amazon.com/gp/product/B01N0DO631/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 the last option is the newly released Sanwa JLX. This stick is very similar to the venerable JLF however it has a few subtle improvements, mainly the pivot is highly polished and smoother feeling than the JLF. These can be purchased from focusattack.com here https://focusattack.com/sanwa-jlx-tp-8yt-joystick/
 
@@ -48,14 +47,22 @@ I have tested several microswitches and will list the ones I know to work for th
 
 Sanwa V-152-3A5. These are my recommended first switches to try. they offer extremely consistent and reliable actuation feel while not being too overly stiff. https://focusattack.com/sanwa-v-152-3a5-fastener-micro-switch/
 
-Suzo Happ E-Switch 50g .187" Microswitch. These are a very low actuation force microswitch and are a decent option if you have issues with actuating both switches at the same time. the downside to them is that they offer less  pushback which can make your return to center less accurate as well as possibly adding in the possibility for snapback. They are however a nice option to try if you wish to try a low force feel. https://focusattack.com/e-switch-50g-187-microswitch/
+Suzo Happ E-Switch 50g .187" Microswitch. These are a very low actuation force microswitch and are a decent option if you have issues with actuating both switches at the same time. the downside to them is that they offer less  pushback which can make your return to center less accurate as well as possibly adding in the possibility for snapback. I have however found these to be very good to use for your up direction switches as that direction can sometimes be harder to actuate due to human ergonomics https://focusattack.com/e-switch-50g-187-microswitch/
 
 Gersung GSM-V1623A3. These are very similar in feel to the Sanwa switches listed above and can be considered as a second option for that feel of switch. https://focusattack.com/gersung-gsm-v1623a3-187-microswitch-4-pak/
+
+The jlf/jlx/eg starts arcade stick will come with a pcb with 4 microswitches on it of excellent quality and feel but since they are not .187 terminal switches we will not be using them in this guide. The switch assemblies do fit in the two step but the signal pins do not. if you choose to use the switch assemblies from these switches to save some money you will need to desolder them from the pcb they come on and you will have to directly solder your wires to the pins. Another option is to buy some cheap microswitches from amazon and swap the leaf springs from these soldered microswitches onto the .187 switch assemblies of the cheap microswitches. I have had success doing this using these cheap microswitches. https://www.amazon.com/dp/B07CK4473G?psc=1&ref=ppx_yo2ov_dt_b_product_details 
+
+See the video below that shows how to assemble a disassembled switch assembly to do this mod.
+
+There are so many microswitch options out there. I have only had the time and resources to test a few but feel free to try your own combinations. 
+
+This enclosure is designed for .187 terminal microswitches and cannot guarantee that other terminal size switches will work.
 
 ## Assembly guide
 
 
-To assemble the Two Step we will need to disassemble the microswitches and harvest the internal components. Most micro switches come apart in two pieces, the body and the lid, however some switches have a rivet that secures these pieces together and the body plastic is brittle and cracks apart when you pry the lid up. This is fine as we do not need to keep the factory enclosures.
+To assemble the Two Step we will need to disassemble the microswitches and harvest the internal components. Most micro switches come apart in two pieces, the body and the lid, however some switches have a rivet that secures these pieces together and the body plastic is brittle and cracks apart when you pry the lid up. This is fine as we do not need to keep the factory enclosures. Don't worry if you break the switch plastic during this process.
 
 Begin by taking your fine point tweezers and place them along the seam of the body and the lid and push in. You may need to do that at a couple different places along the seam until the lid lifts up and then pull on the lid until it comes off.
 
@@ -75,9 +82,9 @@ Now we can see the contents of the switch. The pieces we will need to keep are t
 
 Take the back of your tweezers and use the flat surface to pull up on the ground pin to pull it out of the enclosure. I like to stop pulling once its almost out and then use my fingers the rest of the way.
 
-Once you have the assembly loose put your thumb below the leaf spring and your fingers on the ground pin to keep the assembly together.
+Once you have the assembly loose put your thumb below the leaf spring/contact arm and your fingers on the ground pin to keep the assembly together.
 
-* Note: When pulling the assembly out its very easy to keep them all together but sometimes you might lose your grip on the bottom and it will fall apart. This is ok! It’s easy enough to put the assembly back together. Watch this video here for instructions.
+* Note: When pulling the assembly out its very easy to keep them all together but sometimes you might lose your grip on the bottom and it will fall apart. This is ok! It’s easy enough to put the assembly back together. Watch this video here for instructions: https://youtu.be/dY3N_1uZfwE
 
 Once you have the assembly out we will take it over to our Two Step housing and line up the upright piece of the ground pin with the pin slot on the first step housing. Also make sure the bottom end of the ground pin is lined up with the pin slot on the bottom of the first step housing. Once that is lined up press down until the assembly is fully seated.
 
@@ -117,8 +124,7 @@ Give the stick a test and make sure you can actuate both steps in all 4 directio
 
 *Note: I prefer to use a larger actuator with the Two Step however the factory actuator also works fine. This is a preference issue and you may want to try different actuator sizes to see which ones work best for you. I have included some stl files of different actuator sizes for testing however due to the nature of fdm prints being stacked layers I cannot guarantee how well they will survive prolonged use. Otto DIY sells different Nylon actuators on amazon for not much money. https://www.amazon.com/gp/product/B0BVMT9CT9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
-Now we can connect it to the Raspberry pi Pico.
-
+## Now we can connect it to the Raspberry pi Pico.
 
 We will need to create a ground chain for the 8 ground pins. If you plan to use .187 crimp terminals for this I find it good to bend the crimp terminals and also the ground pins themselves for the first stage ground pins at an angle so that you can access the first stage signal pins and not cause a possible signal short with the other direction signal pins
 
