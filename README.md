@@ -28,6 +28,8 @@ The Two step is comprised of a 3d printed enclosure and a custom firmware that i
 
 * Fine point tweezers
 * soldering iron
+* wire terminal crimpers
+* plastic nippers/flush cutters or xacto hobby knife/box cutter.
 
 ### before assembling we should discuss parts options.
 
@@ -118,11 +120,18 @@ We can reuse this gate or you can use the 3d printable gate attached to this pro
 
 see video here: https://youtu.be/bynt-vVpXo0
 
-Once the gate is off you can pull off the factory microswitch pcb and now we are ready to put the jlf base into your preferred enclosure. Once the JLF is secured into your enclosure we can put on the Two Step. I like to take the gate and line it up with the holes on the lids of the Two Step and then place both the gate and the assembled Two Step onto the JLF at the same time. This will keep the lids in place and prevent the jlf actuator from accidentally pushing out one of the plastic actuator pins while pressing down. Once you get the gate to click into place and all 4 retainer tabs are locked into place you are finished!
+Once the gate is off you can pull off the factory microswitch pcb and now we will need to slightly modify the jlf by cutting off 4 small plastic tabs that prevent the two step housing from fully seating onto the jlf. Video showing this modification is here: https://youtu.be/EtVkcnGFjb8
+
+Now we are ready to put the jlf base into your preferred enclosure. Once the JLF is secured into your enclosure we can put on the Two Step. I like to take the gate and line it up with the holes on the lids of the Two Step and then place both the gate and the assembled Two Step onto the JLF at the same time. This will keep the lids in place and prevent the jlf actuator from accidentally pushing out one of the plastic actuator pins while pressing down. Once you get the gate to click into place and all 4 retainer tabs are locked into place you are finished!
+
+Video showing this can be found here: https://youtu.be/bynt-vVpXo0
 
 Give the stick a test and make sure you can actuate both steps in all 4 directions. 
 
 *Note: I prefer to use a larger actuator with the Two Step however the factory actuator also works fine. This is a preference issue and you may want to try different actuator sizes to see which ones work best for you. I have included some stl files of different actuator sizes for testing however due to the nature of fdm prints being stacked layers I cannot guarantee how well they will survive prolonged use. Otto DIY sells different Nylon actuators on amazon for not much money. https://www.amazon.com/gp/product/B0BVMT9CT9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+
+A playlist with all of the above linked videos can be found here: https://www.youtube.com/playlist?list=PLCu_HD4bexUPXB0xjdsqDH9CyVvx6E1PE
 
 ## Now we can connect it to the Raspberry pi Pico.
 
