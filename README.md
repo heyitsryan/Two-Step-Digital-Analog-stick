@@ -189,7 +189,7 @@ Another amazing resource is the Crane's lab discord server: https://discord.gg/y
 
 ## Now you can begin using your controller! 
 
-
+I have started a discord for any questions or issue's you may have building the Two Step. https://discord.gg/K8QTqZ74
 
 
 
