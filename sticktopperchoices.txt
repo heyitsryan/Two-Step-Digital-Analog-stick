@@ -1,0 +1,19 @@
+# Stick topper choices
+
+There are a lot of choices when it comes to the topper or grip you choose for your arcade stick. This is something that will come down to personal preference and will probably also change over time. 
+I started with the classic ball topper that comes with the JLF but quickly realized it was not gonna work well for smash bros. 
+I then switches to a bat top and it was immediately better! I stayed with battop's for quite a while but then I started experimenting with designing some other styles. 
+I currently use the bullet top that I 3d printed using the file that is attached to this project. 
+
+I have attached a battop, a bullettop and a new hybrid of the 2 I designed that I call the flat bat
+
+To print the battop you will need to enable supports and then remove the supports from the inner part of the topper.
+
+To print the bullettop or the flat bat you can flip them upside down in your slicer and you will not need to use supports. 
+
+I would recommend using 100% infill and concentric to make the toppers solid for added weight and rigidity but please experiment to your liking.
+
+Once they are printed and if needed the supports are removed You will then need to insert an m6 nut into the hexagonal space (its a snug fit) and then apply a few drops of super glue to keep it in place. 
+I find that using an m6 bolt with the nut threaded onto the end is the easiest way to install the nut. Dont use too much super glue as it can sometimes get into the threads and can make things very difficult to use. 
+
+Regardless of whetrher you use my topper designs or a topper you purchase from somewhere else I wish you luck and joy in your journey!
