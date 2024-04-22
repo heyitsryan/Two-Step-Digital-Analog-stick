@@ -22,7 +22,7 @@ The Two step is comprised of a 3d printed enclosure and a custom firmware that i
 * wire (your preferred gauge and style)
 * .187 crimp terminals or optional simply solder to the terminal pins whichever you prefer.
 * 1 Raspberry Pi Pico 
-* An enclosure to put it in (See my Stickwich design page (coming soon) for my preferred option but feel free to design your own)
+* An enclosure to put it in (See my Stickwich design page https://github.com/heyitsryan/The-Stickwich for my preferred option but feel free to design your own)
 
 ## Tools Needed:
 
