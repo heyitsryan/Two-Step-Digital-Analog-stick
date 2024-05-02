@@ -30,6 +30,7 @@ The Two step is comprised of a 3d printed enclosure and a custom firmware that i
 * soldering iron
 * wire terminal crimpers
 * plastic nippers/flush cutters or xacto hobby knife/box cutter.
+* super glue
 
 ### before assembling we should discuss parts options.
 
