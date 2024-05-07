@@ -14,6 +14,8 @@ To see the full write up of how I got to this point please see my other reposito
 
 The Two step is comprised of a 3d printed enclosure and a custom firmware that is forked from Haybox firmware
 
+### I have started a discord for any questions or issue's you may have building the Two Step. It is also where active development of performance tweaks of my designed components is being worked on with play testers as well. https://discord.gg/K8QTqZ74
+
 ## Parts needed:
 
 * 1 Sanwa JLF/JLX arcade joystick
@@ -190,7 +192,7 @@ Another amazing resource is the Crane's lab discord server: https://discord.gg/y
 
 ## Now you can begin using your controller! 
 
-I have started a discord for any questions or issue's you may have building the Two Step. https://discord.gg/K8QTqZ74
+
 
 
 
