@@ -18,8 +18,8 @@ A 3d printed Two Step enclosure
 4 printed lower lid's  
 4 printed upper lid's  
 (all printed parts are in the same stl file and ccan all be printed at the same time)
-8 Kaihl Choc V1 switches of your choosing    
-8 Kaihl Choc V1 hotswap sockets  
+8 Kailh Choc V1 switches of your choosing    
+8 Kailh Choc V1 hotswap sockets  
 11 female end dupont cables  (30mm length is recommended)  
 1 Sanwa JLF or JLX arcade stick  
 1 raspberry pi Pico microcontroller  
@@ -42,7 +42,7 @@ the last option is the newly released Sanwa JLX. This stick is very similar to t
 
 ## Low profile switch selection:  
 
-There are 16 total varieties of Kaihl Choc V1 switches to choose from. Out of those I would suggest staying with switches that are 50gf or higher. The reason for this is that arcade microswitches which the JLF/JLX and all arcade sticks use are much higher resistance than what the Choc V1 switches offer and if you use too low of a resistance the stick can feel mushy and struggle to return to center quickly. I personally use the yellow 70GF linears but I have also used the light blue 70gf clicky switches which also feel great. In my testing the "tactile" switches are not very easily felt during gameplay and in my opinion do not offer much to the experience but feel free to experiment. The advantage to this system is that you can combine different switches to create your optimal stick. struggle with hitting consistent Up B's? You might put a lower force switch in the first switch socket of your up pcb as an example. The possibilities are vast.
+There are 16 total varieties of Kailh Choc V1 switches to choose from. Out of those I would suggest staying with switches that are 50gf or higher. The reason for this is that arcade microswitches which the JLF/JLX and all arcade sticks use are much higher resistance than what the Choc V1 switches offer and if you use too low of a resistance the stick can feel mushy and struggle to return to center quickly. I personally use the yellow 70GF linears but I have also used the light blue 70gf clicky switches which also feel great. In my testing the "tactile" switches are not very easily felt during gameplay and in my opinion do not offer much to the experience but feel free to experiment. The advantage to this system is that you can combine different switches to create your optimal stick. struggle with hitting consistent Up B's? You might put a lower force switch in the first switch socket of your up pcb as an example. The possibilities are vast.
 
 ## Assembly guide
 
@@ -52,7 +52,7 @@ Prepare the pcb's by soldering on the hotswap sockets onto the pcb's. This is ve
 
 Step 2: 
 
-Place your Kaihl Choc V1 switch of your choosing into the sockets on the front side of the pcb's.
+Place your Kailh Choc V1 switch of your choosing into the sockets on the front side of the pcb's.
 
 Step 3:
 
