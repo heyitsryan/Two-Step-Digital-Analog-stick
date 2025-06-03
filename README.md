@@ -17,7 +17,7 @@ A 3d printed Two Step enclosure
 4 printed buttons  
 4 printed lower lid's  
 4 printed upper lid's  
-(all printed parts are in the same stl file and ccan all be printed at the same time)
+(all printed parts are in the same stl file and can all be printed at the same time)
 8 Kailh Choc V1 switches of your choosing    
 8 Kailh Choc V1 hotswap sockets  
 11 female end dupont cables  (30mm length is recommended)  
